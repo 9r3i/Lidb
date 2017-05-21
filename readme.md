@@ -2,7 +2,7 @@
 Custom Portable Database [PRO]
 
 [![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i)
-[![License](https://img.shields.io/badge/license-9r3i Professional License-green.svg)](https://github.com/9r3i/Lidb/blob/master/license.txt)
+[![License](https://img.shields.io/badge/license-9r3i_Professional_License-green.svg)](https://github.com/9r3i/Lidb/blob/master/license.txt)
 [![Forks](https://img.shields.io/github/forks/9r3i/Lidb.svg)](https://github.com/9r3i/Lidb/network)
 [![Stars](https://img.shields.io/github/stars/9r3i/Lidb.svg)](https://github.com/9r3i/Lidb/stargazers)
 [![Issues](https://img.shields.io/github/issues/9r3i/Lidb.svg)](https://github.com/9r3i/Lidb/issues)
